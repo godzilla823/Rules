@@ -1,4 +1,6 @@
 # App Store
+# Store content such as apps, books, and music
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN,swcdn.apple.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,ppq.apple.com // Enterprise App validation
