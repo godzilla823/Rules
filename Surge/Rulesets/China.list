@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,akadns.net
 # > Alibaba
 USER-AGENT,%E4%BC%98%E9%85%B7*
 DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,alipay.com
@@ -31,6 +32,7 @@ DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,crashlytics.com
@@ -77,7 +79,7 @@ DOMAIN-SUFFIX,czybjz.com
 DOMAIN-SUFFIX,dandanzan.com
 DOMAIN-SUFFIX,fjhps.com
 DOMAIN-SUFFIX,kuyunbo.club
-# > ChinaNet
+# > ChinaTelecom
 DOMAIN-SUFFIX,21cn.com
 # > HunanTV
 DOMAIN-SUFFIX,hitv.com
@@ -105,6 +107,7 @@ DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,xiaomi.net
 # > Microsoft
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,msecnd.net
@@ -263,6 +266,7 @@ DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,ithome.com
 DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,jianguoyun.com
 DOMAIN-SUFFIX,jidian.im
 DOMAIN-SUFFIX,kaiyanapp.com
 DOMAIN-SUFFIX,kaspersky-labs.com
@@ -272,6 +276,7 @@ DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,luojilab.com
+DOMAIN-SUFFIX,mls-cdn.com
 DOMAIN-SUFFIX,maoyan.com
 DOMAIN-SUFFIX,maoyun.tv
 DOMAIN-SUFFIX,meituan.com
