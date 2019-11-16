@@ -1,6 +1,6 @@
 # > Apple News
 DOMAIN,gspe1-ssl.ls.apple.com // Apple Map TOMTOM Version
-PROCESS-NAME,news
+PROCESS-NAME,News
 USER-AGENT,AppleNews*
 # USER-AGENT,News* // The same name as 今日头条
 USER-AGENT,com.apple.news*
