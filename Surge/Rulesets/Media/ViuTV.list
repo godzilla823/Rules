@@ -1,6 +1,5 @@
 # > Viu(TV)
 USER-AGENT,Viu*
-USER-AGENT,ViuTV*
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.tv
 DOMAIN,api.viu.now.com
